@@ -67,7 +67,7 @@ HTML academy
 - [HTML, CSS, JS(basics)](https://htmlacademy.ru/courses)  
 
 RS Schools
-- [Course «JavaScript/Front-end. Stage 0» (in progress)](https://app.rs.school)
+- [Course «JavaScript/Front-end. Stage 0» (in progress)](https://app.rs.school)  
 ___
 ### Languages ###
 English - Pre-intermediate/Intermediate  
