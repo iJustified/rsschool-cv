@@ -1,6 +1,6 @@
 
 # Ilya Tsygankov #
-![Фото Илья Цыганков](https://github.com/iJustified/iJustified/blob/main/img/imgonline-com-ua-Resize-aHDImJ4D3Dvg18m.jpg)
+![Фото Илья Цыганков](https://github.com/iJustified/rsschool-cv/blob/gh-pages/img/imgonline-com-ua-Resize-aHDImJ4D3Dvg18m.jpg)
 ### Junior Frontend Developer ###
 ___
 ### Contacts ###
@@ -17,7 +17,7 @@ I am currently actively studying JS.
 I also have excellent communication skills and I am really good at teamwork.
 ___
 ### Skills ###
-![Иконка HTML](https://github.com/iJustified/iJustified/blob/main/img/icons8-html-5.svg) ![Иконка CSS](https://github.com/iJustified/iJustified/blob/main/img/icons8-css3.svg) ![Иконка JS](https://github.com/iJustified/iJustified/blob/main/img/icons8-javascript.svg) ![Иконка SASS](https://github.com/iJustified/iJustified/blob/main/img/icons8-sass.svg) ![Иконка Gulp](https://github.com/iJustified/iJustified/blob/main/img/icons8-gulp.svg)
+![Иконка HTML](https://github.com/iJustified/rsschool-cv/blob/gh-pages/img/icons8-html-5.svg) ![Иконка CSS](https://github.com/iJustified/rsschool-cv/blob/gh-pages/img/icons8-css3.svg) ![Иконка JS](https://github.com/iJustified/rsschool-cv/blob/gh-pages/img/icons8-javascript.svg) ![Иконка SASS](https://github.com/iJustified/rsschool-cv/blob/gh-pages/img/icons8-sass.svg) ![Иконка Gulp](https://github.com/iJustified/rsschool-cv/blob/gh-pages/img/icons8-gulp.svg)
 
 - HTML5
 - CSS3 (SCSS/SASS)
