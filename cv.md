@@ -23,7 +23,9 @@ ___
 - CSS3 (SCSS/SASS)
 - JavaScript basics
 - Adobe Photoshop, Figma (for web development)
-- GitHub, Gulp, VS Code
+- GitHub, Gulp, VS Code  
+
+
 ___
 ### Code Example ###
 ```javascript
@@ -60,7 +62,9 @@ Junior frontend developer
 - JS slider  
 
 [Test case 'Site for flower shop'](https://ijustified.github.io/Botanika/)  
-[All cases](https://github.com/iJustified)
+[All cases](https://github.com/iJustified)  
+
+
 ___
 ### Education ###
 HTML academy
@@ -68,6 +72,8 @@ HTML academy
 
 RS Schools
 - [Course «JavaScript/Front-end. Stage 0» (in progress)](https://app.rs.school)  
+
+
 ___
 ### Languages ###
 English - Pre-intermediate/Intermediate  
